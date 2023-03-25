@@ -1,0 +1,9 @@
+{
+  "name": "nurhani-dayanti-birthday",
+  "version": "1.0.0",
+  "description": "Nurhani Dayanti Birthday",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  }
+}
