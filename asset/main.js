@@ -18,7 +18,7 @@ $(document).ready(function () {
     const detik_ = $("#detik");
 
     // Tanggal dan Waktu
-    let ultah = "March 26, 2023 00:00:00";
+    let ultah = "March 25, 2023 12:40:00";
     let hitungMundur = new Date(ultah).getTime();
     let x = setInterval(function () {
         let sekarang = new Date().getTime();
